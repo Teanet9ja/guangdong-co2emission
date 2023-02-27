@@ -33,7 +33,7 @@ A Database named Co2Emission was created in the PostgreSQL using the PgAdmin pla
 <br>
 <br>
 
-<p align="center">Table 1. Sample of Data Loaded in Data Through ETL Process</p>
+<p align="center">Table 1. Sample of Data Loaded into Database Through ETL Process</p>
 
 <center>
 
