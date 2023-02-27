@@ -45,8 +45,6 @@ A Database named Co2Emission was created in the PostgreSQL using the PgAdmin pla
 
 </center>
 
-In the same database, we will also create another table that defines the plane design and its seat map, which will be expressed as a matrix, where X corresponds to the column letters (from A to F) and Y to the row numbers. 
-
 
 ![------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
