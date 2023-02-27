@@ -1,49 +1,32 @@
 # ETL and API Demonstration Using Gungdong Co2 Emission Data
-Demonstration of an ETL and API Processes using Co2 Emission Data of Guangdong Province in China (2008 - 2017)
+Demonstration of an ETL and API Processes using Co2 Emission Data of Guangdong Province in China.
 
-<h1 align="center"><b>Seats selection algorithm to ensure safety measures</b></h1>
-
-<p align="center"> 
-  <img src = "report/img/project-header.png" alt = "Seats selection algorithm to ensure safety measures" width = "95%" height = "95%">
-</p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
-
-<!-- CONTENTS -->
-<h2 id = "contents">Contents</h2>
-
-<details open = "open">
-  <summary>Contents</summary>
-  <ol>
-    <li><a href = "#introduction">Introduction</a></li>
-    <li><a href = "#structure">Structure</a></li>
-    <li><a href = "#database">Database</a></li>
-    <li><a href = "#workflow">Workflow</a></li>
-    <li><a href = "#authors">Authors</a></li>
-  </ol>
-</details>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
 <!-- ABOUT THE PROJECT -->
-<h2 id = "introduction">1. Introduction</h2>
+<h2>1. Introduction</h2>
 
-Due to the current COVID-19 pandemic, we have been forced to secure a distance between the passengers in different means of transport in order to avoid the transmission of the disease. Currently, companies have been reducing the capacity without optimizing the space and have been placing passengers unnecessarily close to each other. Considering this problem, our project aims to propose an optimal automatic seats selection during the booking process that guarantees social distancing measures by:
+China aims at reaching the peak of CO2 emissions before 2030. Due to the regional development differences and industrial divisions, the CO2 emissions vary from regions. Therefore, mapping the CO2 emissions is important for better understanding the emission pattern and making decisions for cutting emissions depending on different conditions.
+This project demonstrates the ETL and API processes using the Guangdong Province Co2 Emission data between the year 2008 and 2017 obtained from the Carbon Emission Accounts & Datasets (CEADs) for emerging economies web platform.
 
-* Providing an efficient solution to allocate seats considering safety measures.
-* Creating an algorithm that is able to automatically select the furthest seat / seats from all occupied seats.
-* Suggesting and trying to keep, while possible, one empty seat in two directions.
+
+
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-<!-- STRUCTURE -->
-<h2 id = "structure">2. Structure</h2>
+<!-- METHODOLOGY -->
+<h2>2. Methodology</h2>
 
-<p align="center"> 
-  <img src = "report/img/code-structure.png" alt = "Code structure" width = "80%" height = "80%">
-</p>
+<h2>ETL</h2>
+This process entails the creation of an algorithm that carries out the extraction, transformation, and Loading of the Co2 Emission data into a PostgreSQL database. The extraction of the data was carried out from a local folder after the data was downloaded in a csv fomat as there was no direct link to extract the data directly from the data platform. A transformation was carried out in order to clean the data into an acceptable format for upload into the database.
 
-<p align="center">Figure 1. Code structure</p>
+<h2>API</h2>
+In the Application Programming Interface, an algorithm was developed to get / retrieve information from the database to possible external users and return them in a json format on the browser. 
+
+* Creating an algorithm that is able to automatically select the furthest seat / seats from all occupied seats.
+* Suggesting and trying to keep, while possible, one empty seat in two directions.
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
