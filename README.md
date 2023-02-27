@@ -1,4 +1,4 @@
-# ETL and API Demonstration Using Gungdong Co2 Emission Data
+# ETL and API Process Demonstration Using Guangdong Co2 Emission Data
 Demonstration of an ETL and API Processes using Co2 Emission Data of Guangdong Province in China.
 
 
@@ -48,10 +48,10 @@ A Database named Co2Emission was created in the PostgreSQL using the PgAdmin pla
 In the same database, we will also create another table that defines the plane design and its seat map, which will be expressed as a matrix, where X corresponds to the column letters (from A to F) and Y to the row numbers. 
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+![------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
 <!-- AUTHORS -->
-
+<h2>3. Authors</h2>
 <b>Linbing Zhuang</b><br>
 Master's degree in Geospatial Technologies at <a href ="https://www.novaims.unl.pt/" target = "_blank">NOVA University of Lisbon</a>, <a href ="https://www.uni-muenster.de/en/" target = "_blank">WWU Münster</a> and <a href ="https://www.uji.es/" target = "_blank">UJI</a><br>
 </p>
