@@ -29,7 +29,9 @@ For the Application Programming Interface (API), an algorithm was developed to g
 <!-- DATABASE -->
 <h2>3. Database</h2>
 A Database named Co2Emission was created in the PostgreSQL using the PgAdmin platform. An SQL code was designed to create a table in the public schema of the database for reception of the cleaned data that will be loaded automatically from the ETL process. The data, after cleaning was loaded in the PostgreSQL PostGIS using the python code.
-
+<br>
+<br>
+<br>
 
 <p align="center">Table 1. Sample of Data Loaded in Data Through ETL Process</p>
 
