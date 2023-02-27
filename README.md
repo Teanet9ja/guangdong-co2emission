@@ -7,7 +7,7 @@ Demonstration of an ETL and API Processes using Co2 Emission Data of Guangdong P
 <!-- ABOUT THE PROJECT -->
 <h2>1. Introduction</h2>
 
-China aims at reaching the peak of CO2 emissions before 2030. Due to the regional development differences and industrial divisions, the CO2 emissions vary from regions. Therefore, mapping the CO2 emissions is important for better understanding the emission pattern and making decisions for cutting emissions depending on different conditions.
+China aims at reaching the peak of CO2 emissions before 2030. Due to the regional development differences and industrial divisions, the CO2 emissions vary from regions. Therefore, mapping the CO2 emissions is important for better understanding the emission pattern and making decisions for cutting emissions depending on different conditions. </br>
 This project demonstrates the ETL and API processes using the Guangdong Province Co2 Emission data between the year 2008 and 2017 obtained from the Carbon Emission Accounts & Datasets (CEADs) for emerging economies web platform.
 
 
