@@ -2,7 +2,7 @@
 Demonstration of an ETL and API Processes using Co2 Emission Data of Guangdong Province in China.
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+![----------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
 <!-- ABOUT THE PROJECT -->
 <h2>1. Introduction</h2>
@@ -14,7 +14,7 @@ This project demonstrates the ETL and API processes using the Guangdong Province
 
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+![----------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
 <!-- METHODOLOGY -->
 <h2>2. Methodology</h2>
