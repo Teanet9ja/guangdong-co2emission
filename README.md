@@ -24,6 +24,9 @@ This process entails the creation of an algorithm that carries out the extractio
 <h3>API</h3>
 For the Application Programming Interface (API), an algorithm was developed using the Python programming language, to get/retrieve information from the database to external users who seek to obtain allowable data, and return the results in a json format. 
 
+<h3>Visualization</h3>
+Leaflet is used for making the interactive map. A map displaying co2 emission of 120 counties in Guangdong is shown in the webpage. The information of county name, city name, area, co2 emission in different years and average emission are in the pop-up window when users click or search the counties.
+
 
 ![----------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
