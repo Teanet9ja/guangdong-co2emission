@@ -56,6 +56,8 @@ A Database named Co2Emission was created in the PostgreSQL using the PgAdmin pla
 <!-- VISUALIZATION -->
 <h2>Map View</h2>
 
+[Map View](https://linbing1065.github.io)
+
 <iframe src="https://linbing1065.github.io" width="100%" height="500px"></iframe>
 
 
