@@ -1,5 +1,5 @@
 # Co2 Emission In Guangdong, China.
-Demonstration of an ETL and API Processes using Co2 Emission Data of Guangdong Province in China.
+Demonstration of an ETL, API, and Data Visualization Processes using Co2 Emission Data of Guangdong Province in China.
 
 
 ![----------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
@@ -7,15 +7,15 @@ Demonstration of an ETL and API Processes using Co2 Emission Data of Guangdong P
 <!-- ABOUT THE PROJECT -->
 <h2>1. Introduction</h2>
 
-China aims at reaching the peak of CO2 emissions before 2030. Due to the regional development differences and industrial divisions, the CO2 emissions vary from regions. Therefore, mapping the CO2 emissions is important for better understanding the emission pattern and making decisions for cutting emissions depending on different conditions. </br>
-This project demonstrates the ETL and API processes using the Guangdong Province Co2 Emission data from the year 2008 to 2017 which was obtained from the Carbon Emission Accounts & Datasets (CEADs) for emerging economies web <a href ="https://www.ceads.net/" target = "_blank">platform</a>.
+China aims at reaching the peak of CO2 emissions before 2030. Due to the regional development differences and industrial divisions, the CO2 emissions vary from regions. Therefore, mapping and visualizing the CO2 emissions is important for better understanding the emission pattern and making decisions for cutting emissions depending on different conditions. </br>
+This project demonstrates the ETL, API, and Visualization processes using the Guangdong Province Co2 Emission data from the year 2008 to 2017 which was obtained from the Carbon Emission Accounts & Datasets (CEADs) for emerging economies web <a href ="https://www.ceads.net/" target = "_blank">platform</a>.
 
 
 
 
 ![----------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-<!-- METHODOLOGY -->
+<!-- PROCEDURES -->
 <h2>2. Procedures</h2>
 
 <h3>ETL</h3>
