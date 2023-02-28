@@ -28,6 +28,7 @@ For the Application Programming Interface (API), an algorithm was developed usin
 Leaflet is used for making the interactive map. A map displaying co2 emission of 120 counties in Guangdong is shown in the webpage. The information of county name, city name, area, co2 emission in different years and average emission are in the pop-up window when users click or search the counties.
 </br>
 </br>
+
 [[Map View]](https://linbing1065.github.io)
 
 ![----------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
