@@ -53,7 +53,14 @@ A Database named Co2Emission was created in the PostgreSQL using the PgAdmin pla
 
 
 ![------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+<!-- VISUALIZATION -->
+<h2>Map View</h2>
 
+<iframe src="https://linbing1065.github.io" width="100%" height="500px"></iframe>
+
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 <!-- AUTHORS -->
 <h2>4. Authors</h2>
 <b>Linbing Zhuang</b><br>
