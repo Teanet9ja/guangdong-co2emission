@@ -29,7 +29,8 @@ Leaflet is used for making the interactive map. A map displaying co2 emission of
 </br>
 </br>
 
-[[Map View]](https://linbing1065.github.io)
+
+
 
 ![----------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
@@ -55,14 +56,20 @@ A Database named Co2Emission was created in the PostgreSQL using the PgAdmin pla
 </center>
 
 
+![----------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+
+<h2>4. Map View Window</h2>
+This is an interactive map view window co2 emissions information can be obtained for each of the counties.
+</br>
+</br>
+
+[![Map View](03_Report_Refs/guangdong_leaflet_map.png "Map View")](https://linbing1065.github.io/)
 
 
 
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+![----------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 <!-- AUTHORS -->
-<h2>4. Authors</h2>
+<h2>5. Authors</h2>
 <b>Linbing Zhuang</b><br>
 Master's degree in Geospatial Technologies at <a href ="https://www.novaims.unl.pt/" target = "_blank">NOVA University of Lisbon</a>, <a href ="https://www.uni-muenster.de/en/" target = "_blank">WWU Münster</a> and <a href ="https://www.uji.es/" target = "_blank">UJI</a><br>
 </p>
