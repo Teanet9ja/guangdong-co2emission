@@ -19,7 +19,7 @@ This project demonstrates the ETL, API, and Visualization processes using the Gu
 <h2>2. Procedures</h2>
 
 <h3>ETL</h3>
-This process entails the creation of an algorithm that carries out the extraction, transformation, and Loading of the Co2 Emission data into a PostgreSQL database. The extraction of the data was carried out from a local folder after the data was downloaded in a csv fomat as there was no direct link to extract the data directly from the data platform. A transformation was carried out in order to clean the data into an acceptable format for upload into the database.
+This process entails the creation of an algorithm that carries out the extraction, transformation, and Loading of the Co2 Emission data into a PostgreSQL database. The extraction of the data was carried out from a local folder after the data was downloaded in a csv fomat as there was no direct link to extract the data directly from the data platform. A transformation was carried out in order to clean the data into an acceptable format for upload into the database. The cleaned dataframe was merged into the shapefile of the counties before loading it as a GepJSON file into the PostgresSQL database.
 
 <h3>API</h3>
 For the Application Programming Interface (API), an algorithm was developed using the Python programming language, to get/retrieve information from the database to external users who seek to obtain allowable data, and return the results in a json format. 
