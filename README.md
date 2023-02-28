@@ -26,7 +26,9 @@ For the Application Programming Interface (API), an algorithm was developed usin
 
 <h3>Visualization</h3>
 Leaflet is used for making the interactive map. A map displaying co2 emission of 120 counties in Guangdong is shown in the webpage. The information of county name, city name, area, co2 emission in different years and average emission are in the pop-up window when users click or search the counties.
+</br>
 
+[[Map View]](https://linbing1065.github.io)
 
 ![----------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
@@ -52,13 +54,8 @@ A Database named Co2Emission was created in the PostgreSQL using the PgAdmin pla
 </center>
 
 
-![------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
-<!-- VISUALIZATION -->
-<h2>Map View</h2>
 
-[Map View](https://linbing1065.github.io)
 
-<iframe src="https://linbing1065.github.io" width="100%" height="500px"></iframe>
 
 
 
